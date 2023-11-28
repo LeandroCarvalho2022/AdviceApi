@@ -1,6 +1,6 @@
 # AdviceApi
 
-Aplicação web simples que busca conselhos da Advice Slip API. A aplicação é construída utilizando HTML, CSS e JavaScript. O principal objetivo é oferecer insights passo a passo sobre a estrutura do código e sua funcionalidade.
+Aplicação web simples que busca conselhos da Advice Slip API. A aplicação é construída utilizando HTML, CSS e JavaScript. 
 
 # Pré-requisitos:
 
